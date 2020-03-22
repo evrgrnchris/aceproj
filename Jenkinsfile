@@ -1,3 +1,3 @@
 @Library('acelib@master')
-import poc.lib
+import poc.lib.*
 acejobs()
