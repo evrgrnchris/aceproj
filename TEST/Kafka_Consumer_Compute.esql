@@ -1,4 +1,4 @@
-
+#
 
 CREATE COMPUTE MODULE Kafka_Consumer_Compute
 	CREATE FUNCTION Main() RETURNS BOOLEAN
